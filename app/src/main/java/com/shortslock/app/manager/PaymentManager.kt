@@ -17,9 +17,9 @@ class PaymentManager(private val context: Context) {
     }
 
     /**
-     * L
+     * Launch UPI payment intent
      * Returns true if intent was successfully launched
-     */aunch UPI payment intent
+     */
     fun launchPayment(): Boolean {
         return try {
             val upiUri = buildUpiUri()
