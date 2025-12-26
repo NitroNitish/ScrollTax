@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShortsLock</string>
+    <string name="accessibility_service_description">Monitors YouTube Shorts usage and enforces time limits</string>
+    <string name="notification_channel_name">Shorts Monitoring</string>
+    <string name="notification_channel_description">Active monitoring of YouTube Shorts</string>
+    <string name="notification_title">ShortsLock Active</string>
+    <string name="notification_text">Monitoring YouTube Shorts usage</string>
+</resources>
